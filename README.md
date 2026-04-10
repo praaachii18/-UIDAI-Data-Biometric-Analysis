@@ -64,7 +64,13 @@ CSV/Excel – Dataset
 
 
 📸 Dashboard Preview
-Screenshot 2026-01-19 203805 Screenshot 2026-01-19 203833 Screenshot 2026-01-19 203853
+<img width="1282" height="721" alt="image" src="https://github.com/user-attachments/assets/0f31fe85-bee6-4c89-badc-83979a93b7da" />
+<img width="1283" height="721" alt="image" src="https://github.com/user-attachments/assets/7079e5e2-1b8f-46f5-b462-da1deac09cb0" />
+<img width="1285" height="722" alt="image" src="https://github.com/user-attachments/assets/95c200bb-8fd6-4931-97f2-d5bdf6411543" />
+
+
+
+
 👨‍💻 Author
 Prachi Golia & Gaurav Sharma
 
